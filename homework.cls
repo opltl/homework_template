@@ -41,7 +41,7 @@
 
 \setlength{\jot}{10pt} % mezera mezi rovnicemi
 \renewcommand{\baselinestretch}{1.5} % řádkování
-\setlength{\parindent}{7mm} % odsazení
+
 
 \newcommand*{\schsubject}[1]{\gdef\@schsubject{#1}} 
 \newcommand*{\osobcislo}[1]{\gdef\@osobcislo{#1}}
