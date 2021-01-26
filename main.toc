@@ -1,5 +1,0 @@
-\selectlanguage *{czech}
-\contentsline {section}{Zadání}{3}{section*.2}%
-\contentsline {section}{\numberline {1}BOD č.1}{4}{section.1}%
-\contentsline {section}{Závěr}{5}{section.1}%
-\contentsline {section}{Seznam obrázků}{6}{section*.4}%
