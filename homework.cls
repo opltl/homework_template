@@ -10,6 +10,7 @@
 
 \usepackage{polyglossia} 
 \setdefaultlanguage{czech} % česká sazba
+\usepackage{xevlna} % předložky
 
 \usepackage{unicode-math}
 \setmathfont{STIX Two Math} % font na matematiku
