@@ -10,7 +10,7 @@
 
 \usepackage{polyglossia} 
 \setdefaultlanguage{czech} % česká sazba
-\usepackage{xevlna} % předložky
+\usepackage{xevlna} % tvrdá mezera za předložkama
 
 \usepackage{unicode-math}
 \setmathfont{STIX Two Math} % font na matematiku
